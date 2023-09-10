@@ -20,7 +20,7 @@ import math
 
 
 # -------------------------------------------------------------
-# Call some functions and execute code!
+# C
 
 # This is very standard Python - it means
 # "If this module is the one being executed, i.e., the main module"
