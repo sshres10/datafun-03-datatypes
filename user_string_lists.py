@@ -14,6 +14,11 @@ logger, logname = setup_logger(__file__)
 # Define shared data ..........................................
 import random
 
+def process_text_soccer():
+    """Read in text_soccer.txt and process it"""
+    logger.info("Calling process_text_soccer()")
+
+
 # Define your lists
 listA = ["goalkeeper", "defender", "midfielder", "forward"]
 listB = ["penalty kick", "corner kick", "free kick", "throw-in"]
@@ -32,8 +37,15 @@ random_item = random.choice(listE)
 logging.info(f"A random item from listE is {random_item}.")
 
 # String Lists 3: Get Unique Words
-with open("soccer.txt") as file:
-    text = file.read()
-    words = text.split()
-    unique_words = sorted(set(words))
-    logging.info(f"There are {len(unique_words)} unique words in soccer.txt.")
+def process_text_soccer():
+    """Read in text_soccer.txt and process it"""
+    logger.info("Calling process_text_soccer()")
+
+    # read in soccer to get a list of words
+    with open("text_soccer.txt", "r") as fileObject:
+        text = fileObject.read()
+        words = text.split()  # split on whitespace
+        unique_words = sorted(set(words))  # remove duplicates by making a set
+        logging.info(f"There are {len(unique_words)} unique words in soccer.txt.")
+                              
+                              

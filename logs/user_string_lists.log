@@ -1,15 +1,15 @@
-2023-09-10 10:27:37,911 =============================================================
-2023-09-10 10:27:37,912 =============================================================
-2023-09-10 10:27:37,912 Today is 2023-09-10 at 10:27 AM
-2023-09-10 10:27:37,999 This file is running on: nt Windows 10
-2023-09-10 10:27:37,999 The Python version is: 3.11.4
-2023-09-10 10:27:38,000 The active conda environment is:  None
-2023-09-10 10:27:38,000 The active pip environment is:    None
-2023-09-10 10:27:38,000 The active environment path is:   C:\Users\sshre\AppData\Local\Programs\Python\Python311
-2023-09-10 10:27:38,000 The current working directory is: C:\Users\sshre\OneDrive\Desktop\FOLDER\datafun-03-datatypes
-2023-09-10 10:27:38,000 This source file is in:           c:\Users\sshre\OneDrive\Desktop\FOLDER\datafun-03-datatypes
-2023-09-10 10:27:38,000 =============================================================
-2023-09-10 10:27:38,000 =============================================================
-2023-09-10 10:27:38,001 Tuple AB: [('goalkeeper', 'penalty kick'), ('defender', 'corner kick'), ('midfielder', 'free kick'), ('forward', 'throw-in')]
-2023-09-10 10:27:38,001 Tuple CD: [('yellow card', 'Premier League'), ('red card', 'La Liga'), ('offside', 'Serie A'), ('foul', 'League One')]
-2023-09-10 10:27:38,001 A random item from listE is Copa America.
+2023-09-10 10:44:55,188 =============================================================
+2023-09-10 10:44:55,189 =============================================================
+2023-09-10 10:44:55,189 Today is 2023-09-10 at 10:44 AM
+2023-09-10 10:44:55,279 This file is running on: nt Windows 10
+2023-09-10 10:44:55,279 The Python version is: 3.11.4
+2023-09-10 10:44:55,279 The active conda environment is:  None
+2023-09-10 10:44:55,280 The active pip environment is:    None
+2023-09-10 10:44:55,280 The active environment path is:   C:\Users\sshre\AppData\Local\Programs\Python\Python311
+2023-09-10 10:44:55,280 The current working directory is: C:\Users\sshre\OneDrive\Desktop\FOLDER\datafun-03-datatypes
+2023-09-10 10:44:55,281 This source file is in:           c:\Users\sshre\OneDrive\Desktop\FOLDER\datafun-03-datatypes
+2023-09-10 10:44:55,281 =============================================================
+2023-09-10 10:44:55,281 =============================================================
+2023-09-10 10:44:55,281 Tuple AB: [('goalkeeper', 'penalty kick'), ('defender', 'corner kick'), ('midfielder', 'free kick'), ('forward', 'throw-in')]
+2023-09-10 10:44:55,281 Tuple CD: [('yellow card', 'Premier League'), ('red card', 'La Liga'), ('offside', 'Serie A'), ('foul', 'League One')]
+2023-09-10 10:44:55,282 A random item from listE is Copa America.
