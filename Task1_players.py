@@ -38,7 +38,7 @@ epl()
 
 def soccer_players():
     # Attacking soccer players
-    players_attack = ("Saka", "Martinelli", "Trossard", "VIera")
+    players_attack = ("Saka", "Martinelli", "Trossard", "Viera")
 
     # Add a forward
     players_attack = players_attack + ("Henry",)
