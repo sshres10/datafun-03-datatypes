@@ -1,3 +1,8 @@
+"""
+Purpose: Attempting extra credit.
+
+"""
+
 import doctest
 from util_datafun_logger import setup_logger
 
