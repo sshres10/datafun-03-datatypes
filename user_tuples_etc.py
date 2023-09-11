@@ -10,7 +10,7 @@ from util_datafun_logger import setup_logger
 logger, logname = setup_logger(__file__)
 
 def illustrate_soccer_tuples():
-    """This function illustrates tuples in Python using a soccer context."""
+    """This function illustrates tuples in Python using a soccer as a domain."""
 
     # Create some tuples
     teamA = ('Saka', 'Martinelli', 'Gabriel')
@@ -56,7 +56,7 @@ from util_datafun_logger import setup_logger
 logger, logname = setup_logger(__file__)
 
 def illustrate_soccer_sets():
-    """This function illustrates sets in Python using a soccer context."""
+    """This function illustrates sets in Python using a soccer as a domain."""
 
     # Create some sets
     teamA = {'Messi', 'Neymar', 'Mbappe'}
@@ -90,7 +90,7 @@ illustrate_soccer_sets()
 """This function illustrates Soccer dictionaries in Python."""
 
 def illustrate_soccer_dictionaries():
-    """This function illustrates dictionaries in Python using a soccer context."""
+    """This function illustrates dictionaries in Python using a soccer as a domain."""
 
     # Create some dictionaries
     playerA_dict = {"name": "Messi", "age": 34, "team": "Inter Miami"}
