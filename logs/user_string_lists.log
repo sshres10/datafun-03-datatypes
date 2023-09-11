@@ -1,18 +1,18 @@
-2023-09-10 11:09:48,212 =============================================================
-2023-09-10 11:09:48,212 =============================================================
-2023-09-10 11:09:48,213 Today is 2023-09-10 at 11:09 AM
-2023-09-10 11:09:48,314 This file is running on: nt Windows 10
-2023-09-10 11:09:48,314 The Python version is: 3.11.4
-2023-09-10 11:09:48,314 The active conda environment is:  None
-2023-09-10 11:09:48,315 The active pip environment is:    None
-2023-09-10 11:09:48,315 The active environment path is:   C:\Users\sshre\AppData\Local\Programs\Python\Python311
-2023-09-10 11:09:48,315 The current working directory is: C:\Users\sshre\OneDrive\Desktop\FOLDER\datafun-03-datatypes
-2023-09-10 11:09:48,316 This source file is in:           c:\Users\sshre\OneDrive\Desktop\FOLDER\datafun-03-datatypes
-2023-09-10 11:09:48,316 =============================================================
-2023-09-10 11:09:48,316 =============================================================
-2023-09-10 11:09:48,316 Tuple AB: [('goalkeeper', 'penalty kick'), ('defender', 'corner kick'), ('midfielder', 'free kick'), ('forward', 'throw-in')]
-2023-09-10 11:09:48,317 Tuple CD: [('yellow card', 'Premier League'), ('red card', 'La Liga'), ('offside', 'Serie A'), ('foul', 'League One')]
-2023-09-10 11:09:48,318 A random item from listE is Asia Cup.
-2023-09-10 11:09:48,318 Calling functions from main block
-2023-09-10 11:09:48,318 Calling process_text_soccer()
-2023-09-10 11:09:48,318 File not found: text_soccer.txt
+2023-09-10 13:54:07,801 =============================================================
+2023-09-10 13:54:07,801 =============================================================
+2023-09-10 13:54:07,801 Today is 2023-09-10 at 01:54 PM
+2023-09-10 13:54:07,826 This file is running on: nt Windows 10
+2023-09-10 13:54:07,826 The Python version is: 3.11.4
+2023-09-10 13:54:07,826 The active conda environment is:  None
+2023-09-10 13:54:07,826 The active pip environment is:    None
+2023-09-10 13:54:07,826 The active environment path is:   C:\Users\sshre\AppData\Local\Programs\Python\Python311
+2023-09-10 13:54:07,826 The current working directory is: C:\Users\sshre\OneDrive\Desktop\FOLDER\datafun-03-datatypes
+2023-09-10 13:54:07,826 This source file is in:           c:\Users\sshre\OneDrive\Desktop\FOLDER\datafun-03-datatypes
+2023-09-10 13:54:07,826 =============================================================
+2023-09-10 13:54:07,826 =============================================================
+2023-09-10 13:54:07,826 Tuple AB: [('goalkeeper', 'penalty kick'), ('defender', 'corner kick'), ('midfielder', 'free kick'), ('forward', 'throw-in')]
+2023-09-10 13:54:07,826 Tuple CD: [('yellow card', 'Premier League'), ('red card', 'La Liga'), ('offside', 'Serie A'), ('goal kick', 'League One')]
+2023-09-10 13:54:07,826 A random item from listE is Asia Cup.
+2023-09-10 13:54:07,826 Calling functions from main block
+2023-09-10 13:54:07,826 Calling process_text_soccer()
+2023-09-10 13:54:07,826 File not found: text_soccer.txt

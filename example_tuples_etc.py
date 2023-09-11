@@ -246,3 +246,4 @@ if __name__ == "__main__":
     logger.info("Explore enough to understand.")
     logger.info("Apply these skills to your own topic domain.")
     show_log()
+

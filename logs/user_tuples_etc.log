@@ -1,0 +1,46 @@
+2023-09-11 14:47:12,969 =============================================================
+2023-09-11 14:47:12,969 =============================================================
+2023-09-11 14:47:12,969 Today is 2023-09-11 at 02:47 PM
+2023-09-11 14:47:12,996 This file is running on: nt Windows 10
+2023-09-11 14:47:12,996 The Python version is: 3.11.4
+2023-09-11 14:47:12,996 The active conda environment is:  None
+2023-09-11 14:47:12,996 The active pip environment is:    None
+2023-09-11 14:47:12,996 The active environment path is:   C:\Users\sshre\AppData\Local\Programs\Python\Python311
+2023-09-11 14:47:12,996 The current working directory is: C:\Users\sshre\OneDrive\Desktop\FOLDER\datafun-03-datatypes
+2023-09-11 14:47:12,996 This source file is in:           c:\Users\sshre\OneDrive\Desktop\FOLDER\datafun-03-datatypes
+2023-09-11 14:47:12,996 =============================================================
+2023-09-11 14:47:12,996 =============================================================
+2023-09-11 14:47:12,996 teamA = ('Saka', 'Martinelli', 'Gabriel')
+2023-09-11 14:47:12,996 teamB = ('Saliba', 'Zinchenko', 'Tomiyasu')
+2023-09-11 14:47:12,996 allPlayers = ('Saka', 'Martinelli', 'Gabriel', 'Saliba', 'Zinchenko', 'Tomiyasu')
+2023-09-11 14:47:12,996 teamAThrice = ('Saka', 'Martinelli', 'Gabriel', 'Saka', 'Martinelli', 'Gabriel', 'Saka', 'Martinelli', 'Gabriel')
+2023-09-11 14:47:12,996 Does teamA have Saka? True
+2023-09-11 14:47:12,996 Does teamA have Saliba? False
+2023-09-11 14:47:12,996 First player in Team A: Saka
+2023-09-11 14:47:12,996 Second player in Team A: Martinelli
+2023-09-11 14:47:12,996 Last player in Team A: Gabriel
+2023-09-11 14:47:12,996 =============================================================
+2023-09-11 14:47:12,996 =============================================================
+2023-09-11 14:47:12,996 Today is 2023-09-11 at 02:47 PM
+2023-09-11 14:47:12,996 This file is running on: nt Windows 10
+2023-09-11 14:47:12,996 The Python version is: 3.11.4
+2023-09-11 14:47:12,996 The active conda environment is:  None
+2023-09-11 14:47:12,996 The active pip environment is:    None
+2023-09-11 14:47:12,996 The active environment path is:   C:\Users\sshre\AppData\Local\Programs\Python\Python311
+2023-09-11 14:47:12,996 The current working directory is: C:\Users\sshre\OneDrive\Desktop\FOLDER\datafun-03-datatypes
+2023-09-11 14:47:12,996 This source file is in:           c:\Users\sshre\OneDrive\Desktop\FOLDER\datafun-03-datatypes
+2023-09-11 14:47:12,996 =============================================================
+2023-09-11 14:47:12,996 =============================================================
+2023-09-11 14:47:12,996 teamA = {'Neymar', 'Mbappe', 'Messi'}
+2023-09-11 14:47:12,996 teamB = {'Ronaldinho', 'Ronaldo', 'Zlatan'}
+2023-09-11 14:47:12,996 allPlayers = {'Neymar', 'Zlatan', 'Mbappe', 'Ronaldinho', 'Ronaldo', 'Messi'}
+2023-09-11 14:47:12,996 commonPlayers = set()
+2023-09-11 14:47:12,996 uniquePlayersA = {'Neymar', 'Mbappe', 'Messi'}
+2023-09-11 14:47:12,996 Original list: ['Messi', 'Neymar', 'Messi', 'Mbappe', 'Neymar', 'Mbappe']
+2023-09-11 14:47:12,996 List after removing duplicates: ['Neymar', 'Mbappe', 'Messi']
+2023-09-11 14:47:12,996 playerA_dict = {'name': 'Messi', 'age': 34, 'team': 'Inter Miami'}
+2023-09-11 14:47:12,996 playerB_dict = {'name': 'Ronaldo', 'age': 36, 'team': 'Al Nassr'}
+2023-09-11 14:47:12,996 player_ratings_dict = {'Messi': 98, 'Ronaldo': 92, 'Neymar': 85}
+2023-09-11 14:47:12,996 team_data_dict = {'team': ['PSG', 'Inter Miami', 'Al Nassr', 'Real Madrid'], 'league': ['Ligue 1', 'MLS', 'Saudi League', 'La Liga'], 'points': [89, 85, 86, 88]}
+2023-09-11 14:47:12,996 Goal count is a good way to analyze player performance.
+2023-09-11 14:47:12,996 Given goal_list, the goal_counts_dict = {'Messi': 3, 'Ronaldo': 2, 'Neymar': 1}

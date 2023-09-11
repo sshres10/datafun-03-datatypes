@@ -22,7 +22,7 @@ def process_text_soccer():
 # Define your lists
 listA = ["goalkeeper", "defender", "midfielder", "forward"]
 listB = ["penalty kick", "corner kick", "free kick", "throw-in"]
-listC = ["yellow card", "red card", "offside", "foul"]
+listC = ["yellow card", "red card", "offside", "goal kick"]
 listD = ["Premier League", "La Liga", "Serie A", "League One"]
 listE = ["World Cup", "Euro", "Asia Cup", "Copa America"]
 
